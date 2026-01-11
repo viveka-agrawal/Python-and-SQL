@@ -1,0 +1,16 @@
+---
+:id: 285422743
+:submitters:
+- :name: Huizi Xu
+  :email: huizix1@uci.edu
+- :name: Ingrid America Morales
+  :email: ingriam1@uci.edu
+- :name: Viveka Agrawal
+  :email: vivekaa@uci.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-11-04 22:48:40.555827000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-11-04 14:48:40.555827000 Z
+:status: processed
+:score: 100.0
