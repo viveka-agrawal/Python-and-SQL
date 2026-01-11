@@ -1,0 +1,201 @@
+owner_id,dob,pet_id,name,species,breed
+148,2021-03-21 00:00:00,1,Gregory,Rabbit,Holland Lop
+119,2012-08-02 00:00:00,1,Amber,Bird,Cockatiel
+82,2009-12-18 00:00:00,1,Catherine,Rabbit,Holland Lop
+90,2020-03-12 00:00:00,1,Alyssa,Bird,Parakeet
+40,2016-01-05 00:00:00,1,Lori,Rabbit,Holland Lop
+15,2013-02-21 00:00:00,1,Cheryl,Cat,Bengal
+1,2016-10-16 00:00:00,1,Patricia,Bird,Parakeet
+27,2022-12-07 00:00:00,1,Dylan,Bird,Cockatiel
+133,2013-08-30 00:00:00,1,Madison,Cat,Persian
+113,2021-10-18 00:00:00,1,Jennifer,Dog,Golden Retriever
+38,2013-11-21 00:00:00,1,Jason,Bird,Parakeet
+84,2017-02-18 00:00:00,1,Shawn,Bird,Parakeet
+18,2014-10-09 00:00:00,1,Stephanie,Cat,Siamese
+13,2014-10-24 00:00:00,1,Jennifer,Rabbit,Holland Lop
+87,2015-09-26 00:00:00,1,Shannon,Dog,Beagle
+19,2019-01-21 00:00:00,1,Maria,Rabbit,Mini Rex
+105,2013-05-25 00:00:00,1,Erin,Bird,Cockatiel
+127,2024-07-01 00:00:00,1,Melanie,Bird,Parakeet
+54,2017-09-13 00:00:00,1,Cynthia,Rabbit,Netherland Dwarf
+76,2020-12-10 00:00:00,1,Jason,Dog,Beagle
+139,2017-01-04 00:00:00,1,Kimberly,Bird,Cockatiel
+40,2013-08-25 00:00:00,2,Steve,Rabbit,Mini Rex
+24,2016-04-08 00:00:00,1,Joseph,Bird,Macaw
+124,2017-02-21 00:00:00,1,Annette,Rabbit,Netherland Dwarf
+127,2018-03-06 00:00:00,2,Steven,Dog,Bulldog
+40,2012-09-19 00:00:00,3,Jacqueline,Rabbit,Mini Rex
+10,2019-07-01 00:00:00,1,John,Cat,Siamese
+104,2016-09-10 00:00:00,1,Adam,Bird,Macaw
+59,2023-03-01 00:00:00,1,Tracy,Dog,Beagle
+105,2011-02-21 00:00:00,2,Ruben,Cat,Maine Coon
+63,2010-07-05 00:00:00,1,Ronald,Cat,Maine Coon
+28,2016-09-28 00:00:00,1,Timothy,Dog,Beagle
+17,2023-09-01 00:00:00,1,Paul,Dog,Poodle
+134,2011-12-14 00:00:00,1,Vanessa,Rabbit,Netherland Dwarf
+60,2013-08-02 00:00:00,1,Michael,Rabbit,Mini Rex
+60,2012-02-09 00:00:00,2,Eric,Dog,Bulldog
+91,2014-02-08 00:00:00,1,Bradley,Cat,Siamese
+77,2012-11-05 00:00:00,1,Victor,Dog,Beagle
+81,2019-04-26 00:00:00,1,Sean,Cat,British Shorthair
+113,2015-12-05 00:00:00,2,April,Cat,Siamese
+54,2017-02-27 00:00:00,2,Carol,Bird,Cockatiel
+111,2022-02-18 00:00:00,1,Cynthia,Dog,German Shepherd
+113,2017-09-12 00:00:00,3,Laura,Dog,Beagle
+149,2024-07-17 00:00:00,1,Nicole,Cat,Persian
+29,2012-02-06 00:00:00,1,Pamela,Rabbit,Mini Rex
+8,2017-12-31 00:00:00,1,Robert,Cat,British Shorthair
+128,2020-01-09 00:00:00,1,Rebecca,Dog,Bulldog
+19,2017-07-01 00:00:00,2,Jennifer,Rabbit,Netherland Dwarf
+116,2012-08-16 00:00:00,1,Brenda,Cat,British Shorthair
+110,2016-01-10 00:00:00,1,Ann,Rabbit,Holland Lop
+150,2023-05-27 00:00:00,1,Travis,Bird,Macaw
+24,2021-05-08 00:00:00,2,Colleen,Dog,Bulldog
+57,2019-02-02 00:00:00,1,Melissa,Cat,Persian
+84,2024-03-27 00:00:00,2,Haley,Dog,Poodle
+109,2021-01-17 00:00:00,1,James,Bird,Cockatiel
+12,2023-06-14 00:00:00,1,Brianna,Bird,Macaw
+57,2019-02-25 00:00:00,2,Brian,Cat,British Shorthair
+34,2023-04-16 00:00:00,1,Stephen,Bird,Macaw
+57,2021-06-28 00:00:00,3,Donna,Bird,Cockatiel
+34,2022-01-17 00:00:00,2,Heather,Bird,Parakeet
+81,2017-08-30 00:00:00,2,Seth,Rabbit,Holland Lop
+127,2012-08-30 00:00:00,3,Amanda,Bird,Parakeet
+134,2024-09-04 00:00:00,2,Tiffany,Dog,Beagle
+94,2019-01-09 00:00:00,1,Linda,Dog,Labrador
+109,2021-08-02 00:00:00,2,Mark,Bird,Macaw
+72,2013-06-25 00:00:00,1,Nicole,Bird,Cockatiel
+4,2015-06-24 00:00:00,1,Patricia,Rabbit,Holland Lop
+10,2014-08-10 00:00:00,2,Thomas,Rabbit,Mini Rex
+31,2023-02-12 00:00:00,1,Jacqueline,Cat,Persian
+108,2014-12-12 00:00:00,1,Shawn,Dog,Labrador
+70,2016-05-08 00:00:00,1,Matthew,Rabbit,Netherland Dwarf
+124,2014-12-07 00:00:00,2,Mikayla,Rabbit,Mini Rex
+150,2023-08-26 00:00:00,2,Alex,Dog,Golden Retriever
+142,2022-11-28 00:00:00,1,Connie,Bird,Parakeet
+150,2009-11-01 00:00:00,3,Sandra,Bird,Parakeet
+51,2022-04-02 00:00:00,1,Danny,Cat,Bengal
+94,2022-10-02 00:00:00,2,Mary,Cat,Sphynx
+28,2020-10-23 00:00:00,2,James,Bird,Macaw
+34,2015-05-20 00:00:00,3,Donna,Bird,Parakeet
+47,2017-09-30 00:00:00,1,James,Rabbit,Holland Lop
+114,2010-08-27 00:00:00,1,Joshua,Rabbit,Holland Lop
+119,2013-05-18 00:00:00,2,Zachary,Bird,Macaw
+112,2017-12-15 00:00:00,1,Tamara,Dog,Golden Retriever
+35,2015-02-20 00:00:00,1,Carlos,Dog,Poodle
+83,2011-09-16 00:00:00,1,Carolyn,Rabbit,Netherland Dwarf
+150,2023-11-27 00:00:00,4,Joanna,Cat,Maine Coon
+26,2020-02-26 00:00:00,1,Maria,Bird,Macaw
+95,2018-11-09 00:00:00,1,Michael,Dog,Beagle
+3,2009-11-08 00:00:00,1,Nancy,Dog,Golden Retriever
+59,2022-04-17 00:00:00,2,Michelle,Bird,Parakeet
+147,2011-07-03 00:00:00,1,Jodi,Bird,Cockatiel
+100,2021-03-08 00:00:00,1,Frederick,Rabbit,Mini Rex
+39,2014-07-28 00:00:00,1,Adrian,Rabbit,Holland Lop
+90,2017-08-11 00:00:00,2,Billy,Cat,British Shorthair
+140,2011-05-29 00:00:00,1,Michael,Dog,Bulldog
+71,2021-02-08 00:00:00,1,Nicole,Rabbit,Mini Rex
+12,2014-02-04 00:00:00,2,Robert,Bird,Cockatiel
+77,2018-12-18 00:00:00,2,John,Cat,British Shorthair
+126,2010-03-29 00:00:00,1,Stephen,Dog,Poodle
+139,2018-01-24 00:00:00,2,Judith,Rabbit,Netherland Dwarf
+48,2019-12-31 00:00:00,1,Michael,Bird,Macaw
+72,2014-10-05 00:00:00,2,Nicole,Bird,Cockatiel
+84,2022-03-22 00:00:00,3,Mariah,Rabbit,Holland Lop
+45,2017-03-25 00:00:00,1,Daniel,Bird,Cockatiel
+102,2022-05-23 00:00:00,1,Nicole,Cat,Persian
+55,2013-12-09 00:00:00,1,Deborah,Cat,Maine Coon
+86,2010-09-27 00:00:00,1,Tiffany,Rabbit,Netherland Dwarf
+34,2023-05-02 00:00:00,4,Robert,Cat,Persian
+2,2013-05-13 00:00:00,1,Debra,Cat,Siamese
+135,2011-03-30 00:00:00,1,Matthew,Cat,Siamese
+25,2022-03-17 00:00:00,1,Emily,Bird,Parakeet
+38,2010-09-01 00:00:00,2,Brenda,Bird,Macaw
+116,2014-08-03 00:00:00,2,Nicole,Bird,Cockatiel
+51,2021-03-29 00:00:00,2,Alexander,Rabbit,Holland Lop
+55,2022-09-17 00:00:00,2,Shane,Dog,Bulldog
+27,2023-06-19 00:00:00,2,Victor,Dog,Labrador
+48,2011-09-17 00:00:00,2,Nicholas,Bird,Cockatiel
+97,2015-11-03 00:00:00,1,Travis,Bird,Cockatiel
+119,2011-12-22 00:00:00,3,Debra,Dog,German Shepherd
+139,2023-02-10 00:00:00,3,Kimberly,Rabbit,Holland Lop
+108,2021-11-22 00:00:00,2,Kimberly,Dog,German Shepherd
+140,2015-09-23 00:00:00,2,Shane,Cat,Sphynx
+102,2012-06-06 00:00:00,2,Daniel,Cat,British Shorthair
+8,2023-08-14 00:00:00,2,Michael,Rabbit,Netherland Dwarf
+135,2021-03-18 00:00:00,2,Brandon,Rabbit,Holland Lop
+94,2014-07-22 00:00:00,3,Jeffrey,Bird,Parakeet
+2,2023-10-05 00:00:00,2,Joshua,Cat,Siamese
+148,2018-09-13 00:00:00,2,Denise,Rabbit,Holland Lop
+81,2013-03-19 00:00:00,3,Adrian,Cat,Bengal
+64,2024-02-20 00:00:00,1,Jennifer,Bird,Parakeet
+100,2014-03-17 00:00:00,2,Mark,Cat,Siamese
+121,2013-10-29 00:00:00,1,Janet,Cat,Bengal
+149,2013-04-08 00:00:00,2,Nicholas,Rabbit,Holland Lop
+40,2011-03-23 00:00:00,4,Anthony,Cat,Maine Coon
+78,2022-09-22 00:00:00,1,Kristie,Rabbit,Holland Lop
+147,2014-06-06 00:00:00,2,Linda,Rabbit,Netherland Dwarf
+34,2018-12-06 00:00:00,5,Jeremy,Rabbit,Netherland Dwarf
+149,2018-03-23 00:00:00,3,Jennifer,Bird,Macaw
+145,2020-11-24 00:00:00,1,Randy,Cat,Maine Coon
+109,2019-01-05 00:00:00,3,Tina,Cat,British Shorthair
+48,2019-11-02 00:00:00,3,Anthony,Dog,Poodle
+118,2010-04-20 00:00:00,1,David,Rabbit,Mini Rex
+2,2017-08-25 00:00:00,3,Henry,Cat,British Shorthair
+63,2010-11-23 00:00:00,2,Nicholas,Rabbit,Holland Lop
+20,2015-10-10 00:00:00,1,Chad,Bird,Cockatiel
+30,2013-09-26 00:00:00,1,Robert,Bird,Macaw
+32,2023-05-03 00:00:00,1,Nicole,Rabbit,Holland Lop
+5,2009-12-13 00:00:00,1,Kenneth,Bird,Cockatiel
+119,2014-11-25 00:00:00,4,Alyssa,Dog,Poodle
+39,2013-08-21 00:00:00,2,Jessica,Dog,Beagle
+132,2023-05-28 00:00:00,1,Mary,Bird,Parakeet
+1,2010-06-12 00:00:00,2,Jason,Cat,Siamese
+32,2018-05-24 00:00:00,2,Eric,Rabbit,Netherland Dwarf
+25,2012-11-29 00:00:00,2,Linda,Dog,Beagle
+15,2017-04-27 00:00:00,2,Frederick,Rabbit,Mini Rex
+63,2020-07-30 00:00:00,3,Jerry,Dog,Bulldog
+34,2023-07-08 00:00:00,6,Daniel,Rabbit,Mini Rex
+51,2012-08-03 00:00:00,3,Christopher,Rabbit,Mini Rex
+115,2021-10-12 00:00:00,1,Brandy,Rabbit,Holland Lop
+122,2015-06-25 00:00:00,1,Benjamin,Rabbit,Mini Rex
+94,2019-02-08 00:00:00,4,Tammy,Bird,Cockatiel
+14,2010-07-13 00:00:00,1,Scott,Bird,Parakeet
+65,2018-12-22 00:00:00,1,Cynthia,Dog,Labrador
+28,2018-10-27 00:00:00,3,Valerie,Cat,British Shorthair
+121,2016-06-24 00:00:00,2,Megan,Bird,Macaw
+130,2013-08-18 00:00:00,1,Brian,Bird,Parakeet
+72,2022-01-26 00:00:00,3,Christopher,Rabbit,Holland Lop
+139,2010-05-08 00:00:00,4,Janet,Rabbit,Holland Lop
+115,2020-03-20 00:00:00,2,Eric,Bird,Cockatiel
+97,2018-11-14 00:00:00,2,Michelle,Cat,Siamese
+75,2015-11-28 00:00:00,1,Ethan,Bird,Cockatiel
+18,2018-10-21 00:00:00,2,Kelly,Bird,Macaw
+142,2020-09-06 00:00:00,2,Robert,Cat,Sphynx
+138,2009-12-13 00:00:00,1,Jessica,Cat,Persian
+80,2023-05-08 00:00:00,1,Ronald,Rabbit,Mini Rex
+19,2022-10-03 00:00:00,3,Robin,Bird,Cockatiel
+137,2013-10-28 00:00:00,1,Scott,Rabbit,Holland Lop
+90,2015-12-17 00:00:00,3,Alexis,Cat,Sphynx
+59,2022-05-16 00:00:00,3,Brittany,Cat,Persian
+109,2021-06-15 00:00:00,4,Melissa,Rabbit,Holland Lop
+108,2011-02-24 00:00:00,3,Patrick,Bird,Macaw
+24,2017-10-29 00:00:00,3,Mary,Dog,Golden Retriever
+88,2016-01-05 00:00:00,1,Sara,Cat,Sphynx
+102,2018-12-23 00:00:00,3,Jennifer,Cat,Persian
+75,2018-10-30 00:00:00,2,Amanda,Dog,Labrador
+59,2019-04-11 00:00:00,4,Rhonda,Rabbit,Holland Lop
+12,2010-07-24 00:00:00,3,Susan,Rabbit,Mini Rex
+100,2019-01-10 00:00:00,3,Lauren,Dog,Bulldog
+100,2016-03-25 00:00:00,4,Daniel,Cat,British Shorthair
+113,2018-07-05 00:00:00,4,Samantha,Rabbit,Holland Lop
+132,2019-08-06 00:00:00,2,Isabella,Rabbit,Netherland Dwarf
+92,2024-06-08 00:00:00,1,Morgan,Rabbit,Mini Rex
+41,2021-03-02 00:00:00,1,Tracie,Bird,Cockatiel
+46,2024-09-14 00:00:00,1,Lisa,Dog,Poodle
+62,2012-03-18 00:00:00,1,Morgan,Rabbit,Mini Rex
+68,2016-12-28 00:00:00,1,William,Bird,Macaw
+28,2021-07-18 00:00:00,4,Laura,Cat,Maine Coon
+84,2015-05-13 00:00:00,4,Lindsey,Rabbit,Holland Lop
+3,2024-04-12 00:00:00,2,Charlene,Rabbit,Mini Rex
+88,2011-01-15 00:00:00,2,Stephanie,Bird,Macaw
