@@ -1,0 +1,14 @@
+---
+:id: 291792413
+:submitters:
+- :name: Shrushti Nikhil Mehta
+  :email: shrushtm@uci.edu
+- :name: Viveka Agrawal
+  :email: vivekaa@uci.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-11-22 06:44:22.868550000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-11-21 22:44:22.868550000 Z
+:status: processed
+:score: 100.0
