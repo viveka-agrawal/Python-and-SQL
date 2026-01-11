@@ -1,0 +1,98 @@
+﻿Viveka Agrawal
+CS224P
+HW 4
+
+
+Set-up question
+
+After creating the graph, click on “Import Data”. It will give an error about missing an id for a node, you should understand the structure of the graph and solve the issue. In your final report, explain how you solved the problem.
+
+
+In the relationship “owns” between Owners and Pets, I fixed the error by giving the Owners node the id column of owner_id and the Pets node the id column of pet_id, both from the table zotpets_pets.csv.
+In the relationship “had appointment with” between Pets and Groomers, I fixed the error by giving the Pets node the id column of pet_id and the Groomers node the id column of groomer_id, both from the table zotpets_appointments.csv.
+In the relationship “scheduled appointment with” between Owners and Groomers, I fixed the error by giving the Owners node the id column of pet_owner_id and the Groomers node the id column of groomer_id, both from the table zotpets_appointments.csv.
+
+
+Question 1
+
+
+MATCH (o:Owner)
+RETURN o.name, o.email, o.join_date
+ORDER BY o.join_date ASC
+LIMIT 1;
+
+
+Question 2
+
+
+MATCH (p:Pets)-[:HAD_APPOINTMENT_WITH]->(g:Groomers)
+RETURN g.name, COUNT(DISTINCT p) as pet_count_dist
+ORDER BY pet_count_dist DESC
+LIMIT 1;
+
+
+Question 3
+
+
+MATCH (o:Owners)-[:OWNS]->(p:Pets)
+RETURN o.name, COUNT(p) as pet_count
+ORDER BY pet_count DESC
+LIMIT 1;
+
+
+Question 4
+
+
+MATCH (earliest_client:Owners)
+WITH earliest_client
+ORDER BY earliest_client.join_date ASC
+LIMIT 1
+
+
+MATCH (influential_client:Owners)-[:OWNS]->(p:Pets)
+WITH earliest_client, influential_client, COUNT(p) as pet_count
+ORDER BY pet_count DESC
+LIMIT 1
+
+
+MATCH shortest_path = shortestPath((earliest_client)-[*..10]-(influential_client))
+RETURN shortest_path;
+
+
+Question 5
+
+
+MATCH (pet:Pets)-[:HAD_APPOINTMENT_WITH]->(groomer:Groomers)
+WITH groomer, COUNT(DISTINCT pet) as appointment_count
+ORDER BY appointment_count DESC
+LIMIT 1
+
+
+WITH groomer as most_popular_groomer
+MATCH (shared_pet:Pets)-[:HAD_APPOINTMENT_WITH]->(most_popular_groomer)
+
+
+MATCH (shared_pet)-[:HAD_APPOINTMENT_WITH]->(secondary_groomer:Groomers)
+WHERE secondary_groomer <> most_popular_groomer
+
+
+RETURN secondary_groomer.name, COUNT(DISTINCT shared_pet) as shared_pet_count
+ORDER BY shared_pet_count DESC;
+
+
+Question 6:
+
+
+MATCH (influential_client:Owners)-[:OWNS]->(p:Pets)
+WITH influential_client, COUNT(p) as pet_count
+ORDER BY pet_count DESC
+LIMIT 1
+
+
+MATCH (influential_client)-[:OWNS]->(influential_client_pet:Pets)
+MATCH (influential_client_pet)-[:HAD_APPOINTMENT_WITH]->(groomer:Groomers)
+MATCH (other_pet:Pets)-[:HAD_APPOINTMENT_WITH]->(groomer)
+MATCH (other_pet_owner:Owners)-[:OWNS]->(other_pet)
+
+
+RETURN influential_client, influential_client_pet, groomer, other_pet, other_pet_owner;
