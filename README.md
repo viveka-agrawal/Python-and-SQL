@@ -1,2 +1,2 @@
-# Python
-Assignments which were completed in Python.
+# Python and SQL
+Assignments which were completed in Python and SQL
