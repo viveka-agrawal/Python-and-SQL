@@ -1,0 +1,146 @@
+[
+  {
+    "pet_id": "pet_001",
+    "name": "Cathy",
+    "species": "Cat",
+    "breed": "Golden Retriever",
+    "dob": "2015-12-15",
+    "owner_id": "user_008"
+  },
+  {
+    "pet_id": "pet_002",
+    "name": "Stephen",
+    "species": "Cat",
+    "breed": "Golden Retriever",
+    "dob": "2020-06-07",
+    "owner_id": "user_015"
+  },
+  {
+    "pet_id": "pet_003",
+    "name": "Luke",
+    "species": "Cat",
+    "breed": "Siamese",
+    "dob": "2021-04-07",
+    "owner_id": "user_018"
+  },
+  {
+    "pet_id": "pet_004",
+    "name": "Rachel",
+    "species": "Rabbit",
+    "breed": "Golden Retriever",
+    "dob": "2020-10-14",
+    "owner_id": "user_015"
+  },
+  {
+    "pet_id": "pet_005",
+    "name": "Andrew",
+    "species": "Rabbit",
+    "breed": "Persian",
+    "dob": "2017-12-16",
+    "owner_id": "user_007"
+  },
+  {
+    "pet_id": "pet_006",
+    "name": "Katherine",
+    "species": "Rabbit",
+    "breed": "Bulldog",
+    "dob": "2020-02-23",
+    "owner_id": "user_011"
+  },
+  {
+    "pet_id": "pet_007",
+    "name": "Stephen",
+    "species": "Dog",
+    "breed": "Persian",
+    "dob": "2016-11-01",
+    "owner_id": "user_004"
+  },
+  {
+    "pet_id": "pet_008",
+    "name": "Adam",
+    "species": "Dog",
+    "breed": "Bulldog",
+    "dob": "2022-07-24",
+    "owner_id": "user_007"
+  },
+  {
+    "pet_id": "pet_009",
+    "name": "Danny",
+    "species": "Cat",
+    "breed": "Bulldog",
+    "dob": "2020-11-21",
+    "owner_id": "user_016"
+  },
+  {
+    "pet_id": "pet_010",
+    "name": "Brian",
+    "species": "Dog",
+    "breed": "Corgi",
+    "dob": "2020-01-21",
+    "owner_id": "user_011"
+  },
+  {
+    "pet_id": "pet_011",
+    "name": "Donna",
+    "species": "Rabbit",
+    "breed": "Corgi",
+    "dob": "2020-03-10",
+    "owner_id": "user_002"
+  },
+  {
+    "pet_id": "pet_012",
+    "name": "Matthew",
+    "species": "Cat",
+    "breed": "Mixed",
+    "dob": "2019-07-17",
+    "owner_id": "user_007"
+  },
+  {
+    "pet_id": "pet_013",
+    "name": "Joseph",
+    "species": "Dog",
+    "breed": "Siamese",
+    "dob": "2019-01-20",
+    "owner_id": "user_019"
+  },
+  {
+    "pet_id": "pet_014",
+    "name": "Shawn",
+    "species": "Cat",
+    "breed": "Bulldog",
+    "dob": "2021-06-16",
+    "owner_id": "user_020"
+  },
+  {
+    "pet_id": "pet_015",
+    "name": "Linda",
+    "species": "Rabbit",
+    "breed": "Golden Retriever",
+    "dob": "2017-09-21",
+    "owner_id": "user_018"
+  },
+  {
+    "pet_id": "pet_016",
+    "name": "Suzanne",
+    "species": "Rabbit",
+    "breed": "Mixed",
+    "dob": "2021-11-30",
+    "owner_id": "user_007"
+  },
+  {
+    "pet_id": "pet_017",
+    "name": "Eric",
+    "species": "Rabbit",
+    "breed": "Siamese",
+    "dob": "2023-10-13",
+    "owner_id": "user_001"
+  },
+  {
+    "pet_id": "pet_018",
+    "name": "Diana",
+    "species": "Dog",
+    "breed": "Corgi",
+    "dob": "2017-02-17",
+    "owner_id": "user_015"
+  }
+]

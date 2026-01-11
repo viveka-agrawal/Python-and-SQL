@@ -1,0 +1,26 @@
+[
+  {
+    "service_id": "service_001",
+    "type": "Bath",
+    "price": 41,
+    "offered_by": "user_006"
+  },
+  {
+    "service_id": "service_002",
+    "type": "Haircut",
+    "price": 48,
+    "offered_by": "user_005"
+  },
+  {
+    "service_id": "service_003",
+    "type": "Nail Trim",
+    "price": 51,
+    "offered_by": "user_008"
+  },
+  {
+    "service_id": "service_qGHboIDL",
+    "type": "Haircut",
+    "price": 75,
+    "offered_by": "user_001"
+  }
+]

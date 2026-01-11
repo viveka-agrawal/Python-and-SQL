@@ -1,0 +1,125 @@
+[
+  {
+    "user_id": "user_008",
+    "payment_method": "Credit Card",
+    "pets_owned": [
+      "pet_001"
+    ],
+    "purchases": [
+      "prod_003",
+      "prod_005"
+    ]
+  },
+  {
+    "user_id": "user_015",
+    "payment_method": "PayPal",
+    "pets_owned": [
+      "pet_002",
+      "pet_004",
+      "pet_018"
+    ],
+    "purchases": [
+      "prod_004",
+      "prod_004"
+    ]
+  },
+  {
+    "user_id": "user_018",
+    "payment_method": "Credit Card",
+    "pets_owned": [
+      "pet_003",
+      "pet_015"
+    ],
+    "purchases": [
+      "prod_004",
+      "prod_005"
+    ]
+  },
+  {
+    "user_id": "user_007",
+    "payment_method": "Apple Pay",
+    "pets_owned": [
+      "pet_005",
+      "pet_008",
+      "pet_012",
+      "pet_016"
+    ],
+    "purchases": [
+      "prod_001"
+    ]
+  },
+  {
+    "user_id": "user_011",
+    "payment_method": "Venmo",
+    "pets_owned": [
+      "pet_006",
+      "pet_010"
+    ],
+    "purchases": [
+      "prod_003"
+    ]
+  },
+  {
+    "user_id": "user_004",
+    "payment_method": "Credit Card",
+    "pets_owned": [
+      "pet_007"
+    ],
+    "purchases": [
+      "prod_004",
+      "prod_005"
+    ]
+  },
+  {
+    "user_id": "user_016",
+    "payment_method": "Apple Pay",
+    "pets_owned": [
+      "pet_009"
+    ],
+    "purchases": [
+      "prod_005",
+      "prod_003"
+    ]
+  },
+  {
+    "user_id": "user_002",
+    "payment_method": "PayPal",
+    "pets_owned": [
+      "pet_011"
+    ],
+    "purchases": [
+      "prod_004",
+      "prod_004"
+    ]
+  },
+  {
+    "user_id": "user_019",
+    "payment_method": "Credit Card",
+    "pets_owned": [
+      "pet_013"
+    ],
+    "purchases": [
+      "prod_003"
+    ]
+  },
+  {
+    "user_id": "user_020",
+    "payment_method": "Credit Card",
+    "pets_owned": [
+      "pet_014"
+    ],
+    "purchases": [
+      "prod_003"
+    ]
+  },
+  {
+    "user_id": "user_001",
+    "payment_method": "Credit Card",
+    "pets_owned": [
+      "pet_017"
+    ],
+    "purchases": [
+      "prod_002"
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "product_id": "prod_001",
+    "name": "Toy",
+    "price": 32.47
+  },
+  {
+    "product_id": "prod_002",
+    "name": "Toy",
+    "price": 10.02
+  },
+  {
+    "product_id": "prod_003",
+    "name": "Toy",
+    "price": 28.82
+  },
+  {
+    "product_id": "prod_004",
+    "name": "Brush",
+    "price": 16.72
+  },
+  {
+    "product_id": "prod_005",
+    "name": "Brush",
+    "price": 15.69
+  }
+]

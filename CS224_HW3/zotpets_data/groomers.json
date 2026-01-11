@@ -1,0 +1,71 @@
+[
+  {
+    "user_id": "user_001",
+    "certification": "AKC S.A.F.E. Groomer",
+    "rating": 4.51,
+    "offers": [
+      "service_qGHboIDL"
+    ]
+  },
+  {
+    "user_id": "user_002",
+    "certification": "National Certified Master Groomer",
+    "rating": 4.71,
+    "offers": [
+        "service_001",
+        "service_002"
+    ]
+  },
+  {
+    "user_id": "user_003",
+    "certification": "National Certified Master Groomer",
+    "rating": 3.5,
+    "offers": [
+        "service_001",
+        "service_002",
+        "service_003"
+    ]
+  },
+  {
+    "user_id": "user_004",
+    "certification": "Professional Dog Groomer Certification",
+    "rating": 4.39,
+    "offers": [
+        "service_001",
+        "service_002"
+    ]
+  },
+  {
+    "user_id": "user_005",
+    "certification": "Certified Professional Pet Stylist",
+    "rating": 4.61,
+    "offers": [
+      "service_002"
+    ]
+  },
+  {
+    "user_id": "user_006",
+    "certification": "AKC S.A.F.E. Groomer",
+    "rating": 4.58,
+    "offers": [
+      "service_001"
+    ]
+  },
+  {
+    "user_id": "user_007",
+    "certification": "AKC S.A.F.E. Groomer",
+    "rating": 4.67,
+    "offers": [
+        "service_002",
+        "service_003"
+    ]
+  },
+  {
+    "user_id": "user_008",
+    "certification": "AKC S.A.F.E. Groomer",
+    "rating": 4.73,
+    "offers": [
+      "service_003"
+    ]
+  }
+]

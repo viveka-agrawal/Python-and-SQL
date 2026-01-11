@@ -1,0 +1,302 @@
+[
+  {
+    "user_id": "user_001",
+    "name": "Kristen Mckee",
+    "email": "diamondfields@yahoo.com",
+    "join_date": "2024-10-07",
+    "roles": {
+      "is_groomer": true,
+      "is_pet_owner": true
+    },
+    "address": {
+      "street": "6681 Laura Ways Apt. 107",
+      "city": "",
+      "state": "MA"
+    }
+  },
+  {
+    "user_id": "user_002",
+    "name": "Mark Collins",
+    "email": "christianjackson@gmail.com",
+    "join_date": "2025-04-06",
+    "roles": {
+      "is_groomer": true,
+      "is_pet_owner": true
+    },
+    "address": {
+      "street": "0065 Anthony Knoll Suite 856",
+      "city": "Duncanborough",
+      "state": ""
+    }
+  },
+  {
+    "user_id": "user_003",
+    "name": "Jay Allen",
+    "email": "villegasjimmy@lee.com",
+    "join_date": "2022-07-22",
+    "roles": {
+      "is_groomer": true,
+      "is_pet_owner": true
+    },
+    "address": {
+      "street": "8256 Smith Ways",
+      "city": "Hallville",
+      "state": "GA"
+    }
+  },
+  {
+    "user_id": "user_004",
+    "name": "Maria Castaneda",
+    "email": "ehubbard@yahoo.com",
+    "join_date": "2022-03-26",
+    "roles": {
+      "is_groomer": true,
+      "is_pet_owner": true
+    },
+    "address": {
+      "street": "30164 Cabrera Drive Apt. 091",
+      "city": "Dianaton",
+      "state": "MT"
+    }
+  },
+  {
+    "user_id": "user_005",
+    "name": "Sylvia Ho",
+    "email": "kennedyjerry@hotmail.com",
+    "join_date": "2025-07-15",
+    "roles": {
+      "is_groomer": true,
+      "is_pet_owner": true
+    },
+    "address": {
+      "street": "003 William River Suite 037",
+      "city": "",
+      "state": "MT"
+    }
+  },
+  {
+    "user_id": "user_006",
+    "name": "Miguel White",
+    "email": "thomas95@gmail.com",
+    "join_date": "2022-09-06",
+    "roles": {
+      "is_groomer": true,
+      "is_pet_owner": true
+    },
+    "address": {
+      "street": "267 Paul Trace Apt. 408",
+      "city": "Butlerport",
+      "state": "MN"
+    }
+  },
+  {
+    "user_id": "user_007",
+    "name": "Kathy Roberts",
+    "email": "pstewart@yahoo.com",
+    "join_date": "2023-10-12",
+    "roles": {
+      "is_groomer": true,
+      "is_pet_owner": true
+    },
+    "address": {
+      "street": "226 Strickland Walk",
+      "city": "Maxwellborough",
+      "state": "NM"
+    }
+  },
+  {
+    "user_id": "user_008",
+    "name": "Hunter Anderson",
+    "email": "tiffany35@armstrong-kirby.com",
+    "join_date": "2025-03-05",
+    "roles": {
+      "is_groomer": true,
+      "is_pet_owner": true
+    },
+    "address": {
+      "street": "3356 Smith Junction",
+      "city": "New Matthew",
+      "state": "PA"
+    }
+  },
+  {
+    "user_id": "user_009",
+    "name": "Jenna Gonzalez",
+    "email": "stephenslori@stephens.com",
+    "join_date": "2024-08-07",
+    "roles": {
+      "is_groomer": false,
+      "is_pet_owner": true
+    },
+    "address": {
+      "street": "06368 Smith Prairie Suite 019",
+      "city": "North Shelbyberg",
+      "state": "NV"
+    }
+  },
+  {
+    "user_id": "user_010",
+    "name": "Jesse Alvarado",
+    "email": "allenclaudia@silva.com",
+    "join_date": "2023-05-03",
+    "roles": {
+      "is_groomer": false,
+      "is_pet_owner": true
+    },
+    "address": {
+      "street": "534 Finley Port",
+      "city": "Normantown",
+      "state": "TN"
+    }
+  },
+  {
+    "user_id": "user_011",
+    "name": "Cory Bass",
+    "email": "umitchell@yahoo.com",
+    "join_date": "2023-04-04",
+    "roles": {
+      "is_groomer": false,
+      "is_pet_owner": true
+    },
+    "address": {
+      "street": "6884 Jonathan Extension",
+      "city": "Anthonymouth",
+      "state": "ME"
+    }
+  },
+  {
+    "user_id": "user_012",
+    "name": "Logan Hughes",
+    "email": "gentrywilliam@gmail.com",
+    "join_date": "2024-05-03",
+    "roles": {
+      "is_groomer": false,
+      "is_pet_owner": true
+    },
+    "address": {
+      "street": "5809 Curtis Parkways",
+      "city": "South Evanhaven",
+      "state": "PA"
+    }
+  },
+  {
+    "user_id": "user_013",
+    "name": "Nicholas Aguilar",
+    "email": "richardbarnes@gordon-hayden.org",
+    "join_date": "2022-06-30",
+    "roles": {
+      "is_groomer": false,
+      "is_pet_owner": true
+    },
+    "address": {
+      "street": "43737 Ryan Village",
+      "city": "Williamston",
+      "state": "NH"
+    }
+  },
+  {
+    "user_id": "user_014",
+    "name": "Leslie Hunter",
+    "email": "rlopez@hotmail.com",
+    "join_date": "2023-04-03",
+    "roles": {
+      "is_groomer": false,
+      "is_pet_owner": true
+    },
+    "address": {
+      "street": "3017 Lauren Unions",
+      "city": "Farmerchester",
+      "state": "NJ"
+    }
+  },
+  {
+    "user_id": "user_015",
+    "name": "Virginia Marshall",
+    "email": "csimpson@austin.com",
+    "join_date": "2022-03-24",
+    "roles": {
+      "is_groomer": false,
+      "is_pet_owner": true
+    },
+    "address": {
+      "street": "51550 Oneill Ports Suite 975",
+      "city": "East Robin",
+      "state": "FL"
+    }
+  },
+  {
+    "user_id": "user_016",
+    "name": "Keith Gardner",
+    "email": "burgessjulie@yahoo.com",
+    "join_date": "2023-11-29",
+    "roles": {
+      "is_groomer": false,
+      "is_pet_owner": true
+    },
+    "address": {
+      "street": "71707 Jeffrey Gardens Apt. 691",
+      "city": "South Todd",
+      "state": "CO"
+    }
+  },
+  {
+    "user_id": "user_017",
+    "name": "Alexis Carey",
+    "email": "amber35@gmail.com",
+    "join_date": "2023-11-25",
+    "roles": {
+      "is_groomer": false,
+      "is_pet_owner": true
+    },
+    "address": {
+      "street": "23723 Rodriguez Junctions Apt. 098",
+      "city": "Heidiville",
+      "state": "SD"
+    }
+  },
+  {
+    "user_id": "user_018",
+    "name": "Erin Johnson",
+    "email": "nwilliams@hotmail.com",
+    "join_date": "2025-05-27",
+    "roles": {
+      "is_groomer": false,
+      "is_pet_owner": true
+    },
+    "address": {
+      "street": "3069 Sarah Roads",
+      "city": "Port Annaton",
+      "state": "DC"
+    }
+  },
+  {
+    "user_id": "user_019",
+    "name": "Mary Anderson",
+    "email": "wmason@levy.com",
+    "join_date": "2022-03-24",
+    "roles": {
+      "is_groomer": false,
+      "is_pet_owner": true
+    },
+    "address": {
+      "street": "758 Christina Port Apt. 136",
+      "city": "Snyderborough",
+      "state": "AZ"
+    }
+  },
+  {
+    "user_id": "user_020",
+    "name": "Richard Paul",
+    "email": "jakejohnson@gmail.com",
+    "join_date": "2022-09-23",
+    "roles": {
+      "is_groomer": false,
+      "is_pet_owner": true
+    },
+    "address": {
+      "street": "824 Cruz Burgs Apt. 710",
+      "city": "Sanchezfort",
+      "state": "WI"
+    }
+  }
+]
